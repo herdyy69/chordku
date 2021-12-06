@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(20, 18, 18);
+  padding: 0;
+  margin: 0;
+}
+.navbar-brand {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+.nav-link {
+  margin-top: 0.4rem;
+}
+.text-tittle {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: white;
+  margin-top: 2rem;
+}
+p {
+  color: rgb(190, 188, 188);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1rem;
+}
+h4,
+a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  color: white;
+}
+a:hover {
+  color: red;
+}
